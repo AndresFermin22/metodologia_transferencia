@@ -1,0 +1,16 @@
+.bedroom {
+  background-color: rgb(34, 34, 78);
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+}
+
+.bedroom__item--big {
+  font-size: 40px;
+}
+
+.bedroom__item--borde{
+    border-radius: 5px;
+    border: 1px solid #fff;
+}
