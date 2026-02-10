@@ -1,0 +1,20 @@
+.livingroom {
+    
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  
+  background-color: rgb(85, 198, 236);
+  padding: 10px;
+  text-align: right;
+}
+
+.livingroom__img-inline--small {
+    display: inline-block;
+    width: auto;
+    height: 60px;
+}
+
+.livingroom__item--inline {
+    display: inline-block;
+}

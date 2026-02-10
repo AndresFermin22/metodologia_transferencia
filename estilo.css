@@ -1,0 +1,8 @@
+@import url(bedroom.css);
+@import url(kitchen.css);
+@import url(livingroom.css);
+@import url(house.css);
+
+body {
+    background-color: rgb(242, 137, 0);
+}
