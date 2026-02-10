@@ -1,4 +1,9 @@
 .livingroom {
+    
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  
   background-color: rgb(85, 198, 236);
   padding: 10px;
   text-align: right;
